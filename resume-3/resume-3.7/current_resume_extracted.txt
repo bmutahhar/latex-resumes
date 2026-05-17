@@ -1,0 +1,74 @@
+--- PAGE 1 ---
+Mutahhar Bin Muzaffar
+mutahharbinmuzaffar@gmail.com +923012498730 in/mutahhar-bin-muzaffar github.com/bmutahhar
+SUMMARY
+Accomplished Frontend Engineer with expertise in JavaScript, React.js, and Next.js, specializing in creating scalable, responsive 
+interfaces, optimizing performance, and improving SEO. Experienced in leading projects from concept to completion, including 
+dashboard development, UI/UX enhancement, and integrating innovative AI tools. Skilled in modern front-end technologies such 
+as Tailwind CSS, Radix UI, ShadCN, Redux, and Zustand.
+EXPERIENCE
+,
+•
+S
+Frontend: React.js 18, Next.js 14, Next SSR, Javascript, Typescript, SCSS, Tailwind CSS, Styled-Components, ShadCN, Radix UI,  
+Redux, Zustand, Strapi CMS
+•
+•
+Frontend Engineer
+Vyro.ai July 2023 - Present Islamabad, Pakistan
+I led the development of the Workflows feature, a unified canvas that brings text image and video generation together through 
+React Flow. I designed the core architecture, state logic and interaction model that power complex node behavior and real time 
+execution. This work went far beyond interface building and required deep problem solving, scalable feature planning and close 
+coordination with the broader product team. The feature has since become one of the most impactful additions to the platform
+Implemented a scalable, subscription-based access control system, allowing granular feature restrictions based on user tiers. 
+Leveraged Firebase Remote Conﬁg to enable real-time updates without deployments, increasing feature rollout efficiency by 
+60% and reducing engineering overhead for access updates by 35%. This optimization contributed to a 20% growth in 
+subscription revenue through improved feature gating and upselling.
+Redesigned and modularized the main dashboard into three standalone versions for separate product lines. Built reusable 
+components using the composite pattern, enabling new dashboards in under 10 minutes instead of days. This overhaul reduced 
+maintenance costs by 40 percent, increased development speed by 25 percent, and improved long term scalability.
+Optimized performance and SEO by refactoring the landing page with Next.js SSR and static generation, reducing load time by 
+40% and raising PageSpeed by 25%. Built the blog with Next.js 14 and Strapi, cutting publishing time by 50%.
+Built modern frontend experiences using Next.js 14 and 15, React 18 and 19, Tailwind V4, ShadCN, React Hook Form, and 
+Zustand to deliver fast, scalable and user friendly interfaces.
+•
+,
+Software Engineer
+DevsInc June 2022 - June 2023 Islamabad, Pakistan
+•
+•
+Built a health provider dashboard with React.js, Material UI, and Twilio, integrating a calendar and video calls. Increased patient 
+interactions by 30% and cut admin tasks by 25%.
+Optimized dashboard UX and scalability with a modular design and faster queries, reducing load times by 40%. Led code reviews,
+improving quality and speeding up feature releases by 20%.
+Fixed 50+ bugs and enhanced KUDO Marketplace UI/UX using React.js, TypeScript, and Jest, boosting engagement by 15% and 
+cutting support tickets by 30%.
+•
+Software Engineer
+Pakistan Air Force October 2021 - June 2022 Islamabad, Pakistan,
+•
+•
+Led an R&D team in the Pakistan Air Force, conducting 10+ feasibility analyses, improving decision-making efficiency by 30%, 
+and delivering reports to senior officials.
+Developed interactive maps using Mapbox’s React.js library, implementing vector conﬁgurations for custom Air Force data 
+visualization, enhancing geospatial analysis accuracy by 40%.
+Built and deployed 20+ Docker images on local Kubernetes clusters, ensuring a 99.9% uptime in a secure environment and 
+reducing deployment time by 50%.
+•
+Bachelor of Computer Science
+COMSATS University • Islamabad, Pakistan • 2021 • 3.73/4 CGPA
+EDUCATION
+ Full Stack Developer
+Engiselle March 2022 - March 2025 , Singapore
+•
+•
+Built and launched eCommerce apps, including an online pharmacy and house repair platform, increasing transaction volume by 
+20% and improving customer access.
+Implemented real-time notiﬁcations via Socket.io, enabling instant updates for key events. Boosted user engagement by 35%, 
+enhancing operational efficiency.
+Added image annotation for precise issue identiﬁcation, improving accuracy by 40% and reducing resolution time by 25% in 
+support cases.
+Developed a webhook for ANPR-based access control, cutting unauthorized entries and speeding up visitor check-ins by 30%.
+•
+•
+•
