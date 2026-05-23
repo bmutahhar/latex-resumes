@@ -1,0 +1,35 @@
+Date: 2026-05-23
+Company: Sticker Mule
+Company Website: https://www.stickermule.com
+Job Title: Software Engineer
+
+Job Description:
+About Sticker Mule:
+Sticker Mule, the Internet's favorite custom printer, is building the Internet's best commerce platform. The company is privately owned with 9-figure annual revenue and strong profitability.
+
+What you will work on:
+You will help develop the Stores platform, which helped sellers earn nearly $200,000 while in beta. Stores is supported by Give (giveaway platform), Ship (shipping platform), Notify (forthcoming email/SMS marketing platform), and more products on the roadmap.
+
+We offer:
+- Remote work with flexible schedules
+- Privately owned, low-stress culture
+- Fun, no-bullshit work environment
+- Great compensation with rising wages
+
+Compensation and benefits:
+- Salary: $145K
+- $20,000 signing bonus
+- 4 weeks vacation plus holidays based on country of residence
+
+We like you to know:
+- Go
+- TypeScript
+- React Native (Expo)
+- GraphQL
+- Postgres
+- Redis
+- Docker
+- Kubernetes
+- Google Cloud Platform
+- Excellent communication skills (English)
+- Degree in Computer Science or equivalent practical experience

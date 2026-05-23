@@ -1,0 +1,21 @@
+Date: 2026-05-23
+Company: Kake
+Company Website: <https://kake.co>
+Job Title: Senior Fullstack (React/Node) Engineer - Frontend Focused
+
+Job Description:
+We are looking for a seasoned Fullstack Engineer to join our team and play a key role in architecting high-quality digital solutions. In this role, you will leverage a deep expertise in React and Node.js to build scalable REST and GraphQL APIs while ensuring a seamless frontend experience using modern TypeScript frameworks. We are seeking a proactive problem-solver who is comfortable managing complex data models in both SQL and NoSQL environments and thrives in a collaborative, fast-paced setting.
+
+Core Requirements:
+- 5+ years of experience working as a Fullstack Engineer
+- Relevant experience in coding in React/NestJS/Zustand, using Node.js and to architect and create REST and/or GraphQL APIs
+- Strong technical experience in modern front-end Typescript/JavaScript libraries and frameworks such as React.js
+- Good understanding of and experience with Git & Git workflows
+- Experience with relational DBs, data modelling and writing SQL queries, and familiarity with NoSQL databases
+
+Nice to Have:
+- Preferred experience working with eCommerce systems and platforms
+- Familiarity with CI/CD workflows and the deployment of workloads to cloud infrastructure
+- Passion for writing clean, testable and robust code
+- Enjoy working in a fast paced, high-growth environment
+- A team player mindset with excellent communication skills and the ability to work independently

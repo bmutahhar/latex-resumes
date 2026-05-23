@@ -1,0 +1,146 @@
+Resume Tailoring Items
+Updated: 2026-05-23
+
+How to use:
+- Add one item per block so we can reuse it across job-specific resume tailoring.
+- Keep claims factual and traceable to real project work.
+
+---
+Project: NGCell
+Item: Implemented text-to-speech and live AI agent real-time communication.
+Recommended Resume Wording:
+- Built text-to-speech experiences and real-time AI agent communication workflows in NGCell using Azure services.
+
+Azure Service Mapping:
+- Text-to-speech: Azure AI Speech (Text to Speech)
+- Real-time communication: Azure Communication Services (ACS) (likely service used for live voice/chat communication)
+- Optional AI runtime pairing (if used): Azure OpenAI Realtime API
+
+Evidence/Notes:
+- Confirm whether ACS included Call Automation, Chat, or Voice/Video SDK usage before final resume insertion.
+
+---
+Project: Engiselle (Student LMS Portal)
+Item: Implemented Azure text-to-speech and real-time avatar synthesis in a Next.js LMS project.
+Recommended Resume Wording:
+- Built AI-assisted voice/avatar learning interactions for a student LMS by integrating Azure AI Speech Text-to-Speech and real-time avatar synthesis in a Next.js application.
+
+Azure Service Mapping:
+- Text-to-speech: Azure AI Speech (Text to Speech)
+- Real-time avatar: Azure AI Speech Avatar (Real-time synthesis avatar)
+
+Reference Links:
+- https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/real-time-synthesis-avatar
+
+Evidence/Notes:
+- User confirmed this work was completed during Engiselle tenure.
+- User shared the same Microsoft Learn link twice; keep one canonical link in records.
+
+---
+Project: AWS Infrastructure (Backend + Database)
+Item: Set up and deployed backend services on AWS EC2; deployed PostgreSQL on AWS.
+Recommended Resume Wording:
+- Set up and deployed backend services on AWS EC2, handling environment configuration, service rollout, and production operations.
+- Deployed and managed PostgreSQL on Amazon RDS to support application data persistence, reliability, and production-scale access patterns.
+- Configured Amazon S3 bucket policies and AWS IAM access controls for team-level security, enabling controlled and compliant access to shared storage resources.
+
+AWS Service Mapping:
+- Compute: Amazon EC2
+- Database: Amazon RDS for PostgreSQL (preferred default wording for tailored resumes)
+- Storage/Security: Amazon S3, AWS IAM
+
+Evidence/Notes:
+- User confirmed EC2 backend deployment experience.
+- Use RDS wording by default unless the user requests self-managed PostgreSQL on EC2 for a specific role.
+- Highlight the RDS/PostgreSQL line whenever a job description explicitly emphasizes AWS.
+- User confirmed S3 bucket policy and IAM setup experience for team access control.
+
+---
+Project: NGCell (E-commerce + LMS Backend Data Layer)
+Item: PostgreSQL-backed production backend ownership with ORM-based query development.
+Recommended Resume Wording:
+- Owned the production PostgreSQL data layer for NGCell e-commerce and student LMS platforms, writing and optimizing production queries for backend services.
+- Implemented backend data models and query flows with Sequelize ORM for the e-commerce platform and Prisma ORM for the LMS portal.
+
+Tech Mapping:
+- Database: PostgreSQL
+- ORMs: Sequelize (e-commerce), Prisma (LMS)
+- Scope: Production backend queries, schema/data access layer implementation
+
+Usage Rules:
+- Prioritize this block whenever a job description emphasizes PostgreSQL, SQL query ownership, ORMs, or backend data-layer engineering.
+- Pair with AWS RDS wording when the same job also emphasizes AWS infrastructure.
+
+Evidence/Notes:
+- User confirmed PostgreSQL ownership for both e-commerce and LMS backends during NGCell tenure.
+- User confirmed production query writing and ORM split: Sequelize for e-commerce, Prisma for LMS.
+
+---
+Project: Devsinc (VeVe)
+Item: Professional GraphQL usage with queries and mutations in a React + NestJS stack.
+Recommended Resume Wording:
+- Built and integrated GraphQL-powered application features by implementing and consuming GraphQL queries and mutations across a React frontend and NestJS backend.
+- Collaborated across frontend and backend layers to ship data flows using GraphQL operations, improving API flexibility and client-side data handling.
+- Contributed to the mobile version of VeVe using React Native and Expo, extending core product workflows to cross-platform app experiences.
+
+Tech Mapping:
+- Frontend: React.js
+- Mobile: React Native, Expo
+- Backend: NestJS
+- API Layer: GraphQL (queries, mutations)
+
+Evidence/Notes:
+- User confirmed professional GraphQL experience during Devsinc tenure.
+- Project name is confirmed as VeVe.
+- User confirmed React Native + Expo usage on VeVe during Devsinc tenure.
+
+---
+Project: Firebase / GCP Access Control
+Item: IAM-based production access restriction in a Firebase-backed environment.
+Recommended Resume Wording:
+- Worked with IAM roles/policies to limit production data access in a Firebase-backed environment.
+
+Tech Mapping:
+- Cloud: Google Cloud Platform (GCP)
+- Services: Firebase, IAM
+
+Evidence/Notes:
+- User confirmed this statement as preferred wording.
+
+---
+Project: Enterprise Platform (Microfrontend Delivery)
+Item: Git workflows and deployment pipeline setup for microfrontend architecture.
+Recommended Resume Wording:
+- Set up Git-based team workflows and deployment pipeline standards for an enterprise platform.
+- Built and maintained a Vercel deployment pipeline for a microfrontend architecture, enabling consistent release flows across independently deployed frontend modules.
+
+Tech Mapping:
+- Version Control: Git
+- Delivery: Git workflows, CI/CD pipeline practices
+- Deployment: Vercel
+- Architecture: Microfrontend
+
+Usage Rules:
+- Prioritize this block whenever a job description emphasizes Git workflows, CI/CD pipelines, deployment ownership, platform reliability, or microfrontend architecture.
+
+Evidence/Notes:
+- User confirmed pipeline setup ownership for the enterprise platform.
+- User confirmed Vercel-based deployment for microfrontend architecture.
+- Enterprise platform context: developed during my tenure at Vyro (ImagineArt).
+- Workflows feature context: the Workflows feature was developed within this enterprise platform.
+
+---
+Project: Devsinc (Kudo)
+Item: Unit testing implementation using Jest and React Testing Library.
+Recommended Resume Wording:
+- Implemented unit tests for frontend components and feature workflows using Jest and React Testing Library (RTL), improving release confidence and regression safety.
+
+Tech Mapping:
+- Testing: Jest, React Testing Library (RTL)
+- Scope: Frontend unit testing, regression coverage
+
+Usage Rules:
+- Prioritize this block whenever a job description emphasizes testing culture, unit testing, frontend testing, Jest, RTL, or quality-focused engineering practices.
+
+Evidence/Notes:
+- User confirmed this work was completed during Devsinc tenure on the Kudo project.
