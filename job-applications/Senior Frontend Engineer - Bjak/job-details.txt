@@ -1,0 +1,44 @@
+Date: 2026-05-29
+Company: Bjak
+Company Website: <https://bjak.my/en/about-us>
+Job Title: Senior Frontend Engineer
+
+Job Description:
+At Bjak, we're on a mission to provide access to affordable and sustainable financial services for people in ASEAN. Headquartered in Malaysia, Bjak is the largest insurance portal in Southeast Asia. Our main portal, Bjak.com, assists millions in finding the best value and highest coverage insurance policies. Our investments in cutting-edge technology such as Custom API, trading systems, and data science enable easy access to financial services that were previously inaccessible or difficult to understand.
+
+Our core strengths lie in navigating complex regulations and environments, creating some of the most innovative products in the world. For instance, we are the first platform globally to simplify and offer investment-linked life and health insurance online, coupled with an instant talk-to-agent service.
+
+If you enjoy building cutting-edge platforms and ecosystems to provide equal access to financial services for the masses, we'd love to speak with you!
+
+Your Mission:
+- Develop new user-facing features using modern web technologies such as HTML5, CSS3, and JavaScript frameworks (React, Angular, Vue.js, etc.).
+- Collaborate with designers to translate UI/UX design wireframes into high-quality code.
+- Optimize applications for maximum speed and scalability.
+- Ensure the technical feasibility of UI/UX designs and implement responsive design principles.
+- Participate in code reviews to ensure code quality and standards compliance.
+- Work closely with backend engineers to integrate frontend components with server-side logic.
+- Stay up-to-date with emerging technologies and industry trends to continuously improve our frontend development practices.
+
+Requirements:
+- Bachelor's degree in Computer Science, Engineering, or related field (or equivalent work experience).
+- Proven experience as a Frontend Software Engineer or similar role, with a strong portfolio of past projects.
+- Proficiency in web development technologies such as HTML, CSS, and JavaScript.
+- Experience with at least one modern JavaScript framework (React, Angular, Vue.js, etc.).
+- Knowledge of web performance optimization techniques and tools.
+- Familiarity with version control systems (e.g., Git) and CI/CD pipelines.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and collaboration skills.
+- Ability to work independently and in a team environment.
+
+Bonus Points:
+- Experience with responsive design and mobile-first development.
+- Knowledge of backend development technologies (Node.js, Python, etc.).
+- Understanding of web security best practices.
+- Experience with testing frameworks (Jest, Mocha, Jasmine, etc.).
+- Contributions to open-source projects or active participation in developer communities.
+
+Benefits:
+- Innovative Challenges: Work on fast-moving, challenging, and unique business problems.
+- Career Growth: Benefit from strong learning and development plans for your career growth.
+- Global Environment: Thrive in an international work environment with a flat organizational structure.
+- Competitive Salary: Receive a competitive salary package.
