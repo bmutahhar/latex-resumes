@@ -1,0 +1,42 @@
+Date: 2026-05-24
+Company: Oscilar
+Company Website: https://oscilar.com
+Job Title: Sr./Staff Frontend Engineer
+
+Job Description:
+Shape the future of trust in the age of AI
+At Oscilar, we're building the most advanced AI Risk Decisioning™ Platform. Banks, fintechs, and digitally native organizations rely on us to manage their fraud, credit, and compliance risk with the power of AI. If you're passionate about solving complex problems and making the internet safer for everyone, this is your place.
+Why join us:
+Mission-driven teams: Work alongside industry veterans from Meta, Uber, Citi, and Confluent, all united by a shared goal to make the digital world safer.
+Ownership and impact: We believe in extreme ownership. You'll be empowered to take responsibility, move fast, and make decisions that drive our mission forward.
+Innovate at the cutting edge: Your work will shape how modern finance detects fraud and manages risk.
+Job Description
+As a Front-End Engineer, you will play a pivotal role in building and refining the core user-facing components of our platform, focusing on creating intuitive no-code features. You will collaborate closely with our UI/UX Design, Backend, and Product teams to ensure that users can easily interact with and configure complex risk operations workflows without needing to write code.
+Responsibilities
+Design, develop, and maintain highly interactive and polished front-end components using modern web technologies.
+Collaborate closely with the UI/UX design team to translate wireframes and mockups into functional, visually appealing user interfaces.
+Ensure the platform’s responsiveness and cross-browser compatibility across a wide range of devices.
+Identify and troubleshoot front-end performance issues, proactively implementing long-term solutions to improve user experience.
+Take ownership of the front-end codebase, maintaining its quality, scalability, and reliability.
+Implement best practices for front-end testing, code quality, and CI/CD pipelines.
+Participate in the full product development lifecycle, from concept through delivery and post-launch improvements.
+Collaborate effectively with cross-functional teams, including Product, Backend, and Infrastructure teams.
+Requirements
+7+ years of front-end development experience, with a focus on building highly responsive and performant web applications.
+Strong expertise in front-end technologies such as HTML, CSS, JavaScript, TypeScript, and React.
+Solid understanding of application-level protocols like HTTP and web security best practices.
+Experience with modern web development tooling and build systems (e.g., vite, npm).
+Familiarity with version control systems (e.g., Git) and CI/CD pipelines for automating testing and deployment.
+Strong problem-solving skills and a keen eye for design details, with a focus on delivering a smooth user experience.
+7. Strong API design skills to negotiate interfaces with other teams.
+Excellent communication skills for collaborating with cross-functional teams, including Product Managers, Designers, and Backend Engineers.
+Ability to work independently and as part of a highly collaborative team.
+Benefits
+Compensation: Competitive salary and equity packages, including a 401k
+Flexibility: Remote-first culture — work from anywhere
+Health: 100% Employer covered comprehensive health, dental, and vision insurance with a top tier plan for you and your dependents (US)
+Balance: Unlimited PTO policy
+Technical: AI First company; both Co-Founders are engineers at heart; and over 50% of the company is Engineering and Product
+Culture: Family-Friendly environment; Regular team events and offsites
+Development: Unparalleled learning and professional development opportunities
+Impact: Making the internet safer by protecting online transactions

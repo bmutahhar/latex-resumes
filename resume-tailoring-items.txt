@@ -144,3 +144,39 @@ Usage Rules:
 
 Evidence/Notes:
 - User confirmed this work was completed during Devsinc tenure on the Kudo project.
+
+---
+Project: Vyro (ImagineArt Workflows)
+Item: Frontend API security and cross-environment authentication reliability.
+Recommended Resume Wording:
+- Worked with backend teams to allow Authorization in Access-Control-Allow-Headers and resolve CORS preflight issues.
+- Verified allowed origins across dev, staging, and production and fixed origin/credential mismatches that caused environment-specific API failures.
+- Implemented bearer-token session handling with refresh/logout flows, session recovery, and protected-route continuity during token-expiry scenarios.
+
+Tech Mapping:
+- Security/Protocol: CORS, HTTP Authorization headers
+- Auth: Bearer token authentication, token refresh, protected-route handling
+- Scope: Frontend integration with backend API policy/configuration
+
+Usage Rules:
+- Prioritize this block whenever a job description emphasizes HTTP fundamentals, web security best practices, API authentication, CORS, or production reliability.
+
+Evidence/Notes:
+- User confirmed all three points were completed at Vyro.
+
+---
+Project: Engiselle (LMS - Next.js + NestJS)
+Item: Role and permission-based access control in full-stack delivery.
+Recommended Resume Wording:
+- Added role/permission-based route guards in a Next.js + NestJS LMS to enforce safer access control in user-facing flows.
+
+Tech Mapping:
+- Frontend: Next.js route protection
+- Backend: NestJS role/permission validation
+- Security: RBAC-style access control
+
+Usage Rules:
+- Prioritize this block whenever a job description emphasizes access control, authorization, secure frontend behavior, or full-stack ownership of auth flows.
+
+Evidence/Notes:
+- User confirmed this work was completed in the LMS system.

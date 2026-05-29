@@ -1,0 +1,77 @@
+Date: 2026-05-24
+Company: Teal HQ
+Company Website: https://www.tealhq.com
+Job Title: Product Engineer (Mid Level to Senior)
+
+Job Description:
+Posting Status (as shown on page): "This job is not taking applications yet, or it has already been closed."
+Posted: May 9, 2026
+Hiring Manager: David Fano
+
+Teal started six years ago, when AI was barely usable. We bet on the future anyway. Built a company. Crossed five million users. Real revenue, real product, real trust with the people who use us.
+
+We did all of that with the tools we had then. Now we get to do it with the tools we have now.
+
+The original idea was always to give every ambitious person the kind of career infrastructure companies have always had. In 2020, that meant trackers, templates, and tools that helped people work the system harder. In 2026, it means agents that work the system for them.
+
+The next Teal isn't a job-search tool. It's the AI that runs your career.
+
+We're building agents that scout opportunities before they're posted. Agents that prep you for interviews. Agents that negotiate for you. Agents that remember every project you've ever shipped, so the next role finds you. Your career data, your career memory, your career vault. Owned by you. Traveling with you from job to job, for the rest of your career.
+
+The closest analogy is what top athletes have always had. Agents, managers, coaches. A team that handles everything around the craft so the athlete can stay focused on the craft. Everyone else has been left to do all of that alone. We're closing that gap.
+
+When ambitious people get this kind of leverage, the whole workforce levels up. More people in the right roles. More people growing into what they're good at. AI as the equalizer that makes raw talent the deciding factor again.
+
+You'd be joining for what's next. The foundation is there. Five million users are there. The existing product continues to serve millions of people; the focus now is the new AI-native one.
+
+You'd be one of three engineers on a small senior team, working directly with me (CEO), rebuilding the whole experience around agents that work for the user. You'll ship to millions of people who'll tell you, immediately, whether your thing worked.
+
+Problems we're working on:
+- What does "good" mean when "good" is contextual? A resume bullet that's perfect for one role is wrong for another. An interview answer that wins at one company gets cut at another. How do we eval recommendations whose quality is bound to a specific person at a specific moment, not a fixed rubric?
+- How do you keep an agent grounded in someone's real career, when the data is messy? People remember projects wrong. Resumes leave things out. LinkedIn over-claims. Our agents have to reason over partial, biased, self-reported data and still produce something the user trusts.
+- Multi-step reasoning without the chatbot tax. Streaming a long agent run to a user without it feeling like watching paint dry. Showing the work without overwhelming. Making the wait feel like progress.
+- A career memory that compounds. Most products forget you the moment you log out. The vault has to get more useful over years, not noisier. What does the right schema look like for something that has to grow with someone for thirty years?
+
+What you'll ship:
+- AI features end-to-end. You own the API, the model orchestration, the streaming UI, the evals, the rollout. Nothing gets thrown over a wall.
+- Agentic workflows. Multi-step agents that research roles, analyze careers, write bullets, prep interviews, negotiate offers. Real agents, not chatbots with retrieval bolted on.
+- Streaming interfaces that feel instant, handle retries gracefully, and degrade well when a model does something weird.
+- The eval system this team needs. Harnesses, regression suites, latency and cost budgets.
+- Prompt and feature iteration infra. The system that lets us A/B test a new prompt without shipping a release.
+- Time with users. Customer calls, support tickets, user interviews.
+
+What you'll build with:
+- Cloudflare edge stack: Workers, Durable Objects, AI Gateway, Vectorize, Queues, R2.
+- Multi-model orchestration with Anthropic, OpenAI, tool calling, structured outputs, streaming responses, Vercel AI SDK, and MCP servers.
+- Interface layer: React, TypeScript, shadcn/ui, Tailwind.
+- Career memory layer: Postgres, pgvector, structured and unstructured career data.
+- Evals focus: harnesses, regression suites, latency and cost budgets.
+- Existing platform systems include Rails and Postgres.
+
+Stack:
+- Backend: Ruby on Rails, Python/FastAPI, TypeScript
+- Data: Postgres, pgvector, Redis
+- Async: Sidekiq
+- Frontend: React, TypeScript, Vite, shadcn/ui, Tailwind
+- Infra: AWS
+- AI: Anthropic, OpenAI, Gemini, LangChain/LangGraph, Langfuse, MCP servers, Vercel AI SDK
+- Tools: Claude Code, Cursor, Codex, OpenCode
+
+What you bring:
+- Production LLM features (tool use, RAG, multi-step agents)
+- Full-stack strength across React/TypeScript and Rails
+- Strong point of view on eval systems
+- Power-user fluency with modern AI coding tools
+- High craft standards on UX, speed, polish
+- Ownership and closure mindset
+- Customer proximity
+- US-based (no sponsorship)
+
+Bonus:
+- Vector DBs in production
+- MCP servers
+- Evals frameworks (Braintrust, Langfuse, homegrown)
+- Career/HR/recruiting product experience
+
+Process:
+Apply with a GitHub repo or AI-native thing shipped, followed by founder chat, take-home exercise, review session, values chat, and a paid project week.
