@@ -1,0 +1,92 @@
+\documentclass[9pt,letterpaper]{article}
+
+\usepackage[margin=0.54in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% ATS-friendly unicode mapping (pdfTeX only; XeTeX via Tectonic does not use this)
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\pagenumbering{gobble}
+\urlstyle{same}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{4pt}{2pt}
+
+\newcommand{\resumeHeader}[1]{%
+  \begin{center}
+    \vspace{1pt}
+    {\fontsize{17pt}{19pt}\selectfont\bfseries #1\par}
+    \vspace{3pt}
+  \end{center}
+}
+\newcommand{\role}[4]{\textbf{#1} \hfill #2 \\
+\textit{#3} \hfill \textit{#4}\\[-5pt]}
+
+\begin{document}
+
+\resumeHeader{Mutahhar BM - Full-Stack Engineer}
+\begin{center}
+\fontsize{9pt}{11pt}\selectfont
+\href{mailto:mutahharbinmuzaffar@gmail.com}{mutahharbinmuzaffar@gmail.com} \;|\; +92 301 2498730 \;|\;
+\href{https://www.linkedin.com/in/mutahhar-bin-muzaffar}{linkedin.com/in/mutahhar-bin-muzaffar} \;|\;
+\href{https://github.com/bmutahhar}{github.com/bmutahhar}
+\end{center}
+
+\section*{Summary}
+Full-Stack Engineer with 5+ years of experience building web products with JavaScript/TypeScript, Next.js, and Node.js. Brings 3+ years of Python scripting experience from freelance automation work and hands-on delivery of large React-to-Next.js migrations.
+
+\section*{Experience}
+\role{Senior Software Engineer}{Jul 2023 -- Present}{\href{https://www.imagine.art/}{\textbf{\underline{ImagineArt}}} - Vyro.ai}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Increased product adoption by leading \href{https://www.imagine.art/flow}{\textbf{\underline{Workflows}}} from ideation to MVP and architecting a unified React Flow canvas for text, image, and video generation.
+  \item Increased team delivery capacity by onboarding and mentoring 4--5 engineers and setting implementation standards for real-time node orchestration.
+  \item Increased rollout efficiency by 60\% and reduced access-update overhead by 35\% by implementing Firebase Remote Config feature gating, contributing to 20\% subscription growth.
+  \item Led migration of a large React application surface to Next.js, improving long-term maintainability and enabling faster feature delivery on a modern TypeScript stack.
+  \item Owned end-to-end delivery of the company blog using Next.js and Strapi CMS, improving content delivery reliability.
+
+\end{itemize}
+
+\role{Full Stack Developer}{Mar 2022 -- Mar 2025}{\href{https://www.engiselle.com/}{\textbf{\underline{Engiselle}}}}{Singapore}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Increased transaction volume by \textbf{20\%} by delivering production eCommerce products for online pharmacy and home-repair marketplaces.
+  \item Improved data-layer reliability by owning PostgreSQL-backed workflows and implementing ORM layers with Sequelize and Prisma for eCommerce and LMS products.
+  \item Improved production stability and secure team access by deploying backend services on AWS EC2, managing PostgreSQL on Amazon RDS, and configuring S3/IAM controls.
+  \item Increased user engagement by \textbf{35\%} by implementing real-time event notification workflows with Socket.io.
+  \item Automated recurring operational workflows with Python scripting across freelance and product contexts, reducing repetitive manual work.
+\end{itemize}
+
+\role{Software Engineer}{Jun 2022 -- Jun 2023}{\href{https://www.devsinc.com/}{\textbf{\underline{DevsInc}}}}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Improved care-team workflow coverage by shipping healthcare product features with React, Material UI, scheduling workflows, and Twilio video integrations.
+  \item Improved API flexibility and frontend-backend delivery speed by implementing GraphQL queries and mutations across a React frontend and NestJS backend for VeVe.
+  \item Expanded mobile product reach by contributing React Native and Expo features that extended core VeVe workflows to cross-platform app experiences.
+  \item Reduced load time by \textbf{40\%}, accelerated release cycles by \textbf{20\%}, and reduced support tickets by \textbf{30\%} by improving UX architecture and resolving 50+ production issues.
+\end{itemize}
+
+\role{Software Engineer}{Oct 2021 -- Jun 2022}{Pakistan Air Force}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Reduced deployment time by \textbf{50\%} while supporting \textbf{99.9\%} uptime by conducting 10+ feasibility studies and deploying 20+ Dockerized services on Kubernetes.
+\end{itemize}
+
+\section*{Education}
+\textbf{Bachelor of Computer Science} \hfill 2021 \\
+COMSATS University, Islamabad \hfill CGPA: 3.73/4.00
+
+\section*{Skills}
+\textbf{Languages:} JavaScript, TypeScript, Python, HTML, CSS/SCSS \\
+\textbf{Frontend/Mobile:} React, Next.js, React Native, Expo, Tailwind CSS, ShadCN, Radix UI, Redux, Zustand \\
+\textbf{Backend/Data/Infra:} Node.js, Express.js, NestJS, GraphQL, PostgreSQL, Prisma, Sequelize, Firebase, AWS (EC2, RDS, S3, IAM), Socket.io, Docker, Kubernetes, Strapi CMS \\
+\textbf{Product/Delivery:} Full-Stack Development, eCommerce Workflows, AI Product Features, Performance Optimization, System Design, Scalable UI Patterns, Cross-Functional Delivery, Jest, Git, REST APIs
+
+\end{document}

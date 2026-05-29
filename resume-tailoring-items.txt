@@ -1,5 +1,5 @@
 Resume Tailoring Items
-Updated: 2026-05-23
+Updated: 2026-05-29
 
 How to use:
 - Add one item per block so we can reuse it across job-specific resume tailoring.
@@ -203,3 +203,41 @@ Usage Rules:
 
 Evidence/Notes:
 - User confirmed this work was completed in the LMS system.
+
+---
+Project: Freelance Engineering (Python Automation)
+Item: Multi-domain automation scripting with Python.
+Recommended Resume Wording:
+- Built and maintained Python automation scripts across multiple freelance projects, replacing manual repetitive workflows with reliable scripted execution.
+- Wrote custom Python utilities to automate day-to-day operational tasks before AI-assisted tooling became common in the workflow.
+
+Tech Mapping:
+- Language: Python
+- Scope: Scripting, process automation, operational workflow automation
+
+Usage Rules:
+- Prioritize this block whenever a job description explicitly requires Python scripting, automation experience, or practical tooling ownership.
+- Keep wording at the scripting/automation level unless a specific domain or system context is confirmed for that job.
+
+Evidence/Notes:
+- User confirmed 3+ years of Python scripting experience during freelance work.
+- User confirmed the work spans multiple domains and focuses on automation of repetitive tasks.
+
+---
+Project: React to Next.js Migration (Web Platform Modernization)
+Item: Large-scale migration from React application architecture to Next.js.
+Recommended Resume Wording:
+- Led migration of a large React application surface to Next.js, modernizing the frontend stack and improving long-term maintainability.
+- Reworked existing React implementation patterns into Next.js-compatible routing and rendering flows to support faster feature delivery.
+
+Tech Mapping:
+- Frontend: React, Next.js
+- Migration Scope: Architecture and framework migration
+
+Usage Rules:
+- Prioritize this block whenever a job description mentions large-scale migrations, frontend modernization, or React/Next.js transition work.
+- Use this as the primary migration evidence when postings mention platform migration but do not require a WordPress-specific migration history.
+
+Evidence/Notes:
+- User confirmed hands-on experience migrating a large React application to Next.js.
+- Do not claim WordPress migration unless separately confirmed by the user.

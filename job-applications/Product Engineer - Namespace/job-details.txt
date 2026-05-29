@@ -1,0 +1,65 @@
+Date: 2026-05-29
+Company: Namespace
+Company Website: <https://namespace.so>
+Job Title: Product Engineer
+
+Job Description:
+JOIN OUR MISSION
+
+We're proud to work with many incredible companies, accelerating their ability to build their products.
+
+We've spent years watching talented engineering teams lose momentum to the same frustrating bottleneck: waiting. Waiting for CI to finish. Waiting for builds to complete. Waiting for tests to run.
+
+After experiencing this pain firsthand at companies of every size, we set out to build the developer infrastructure platform we'd always wanted to use. Something that would seamlessly integrate with our workflows and the tools teams already love—but make everything dramatically faster and more cost-effective.
+
+Today, we're already accelerating hundreds of companies around the world, helping them ship features instead of waiting for infrastructure. We've built something that feels almost magical in its simplicity: change your runs-on line, mount your toolchain cache directory and suddenly your builds are 5x faster.
+
+
+ABOUT THE ROLE
+
+Namespace's approach is low-friction, designed for immediate integration into existing developer toolchains, empowering teams to experience tangible results within just five minutes. With an end-to-end stack optimized for high performance—including compute, memory, storage, and networking—Namespace delivers capabilities and efficiencies unmatched by traditional cloud providers.
+
+As a Product Engineer at Namespace, you'll develop products that significantly enhance developer productivity. You'll build intuitive, performant user-facing applications and integrations that seamlessly fit into developers' existing workflows, directly impacting their ability to ship faster and more efficiently.
+
+
+OUR CULTURE
+
+We're looking for people with grit—people who push through ambiguity, take ownership, and keep going when things get hard. You're deeply curious, driven to understand how things work and how they can be improved. Most importantly, you have a strong bias to execution: you don't wait for perfect conditions, you ship, learn, and iterate quickly. If you care about building, moving fast, and making real impact, you'll fit right in.
+
+
+WHAT YOU'LL DO
+
+ - Own and ship end-to-end features that integrate seamlessly with popular developer tools
+
+ - Develop user-facing applications that make powerful infrastructure intuitive and accessible to developers
+
+ - Collaborate directly with users and partners to deeply understand their workflows, pain points, and product needs
+
+ - Continuously iterate on product design and implementation to drive adoption, performance, and reliability
+
+
+WHAT WE'RE LOOKING FOR
+
+ - Strong software engineering fundamentals, with experience building production-grade software in languages like TypeScript/JavaScript (React), Go, Python, or similar
+
+ - Proven track record shipping impactful product features, preferably for developer-focused or infrastructure products
+
+ - Customer-centric mindset with the ability to translate complex technical solutions into intuitive user experiences
+
+ - Enthusiasm for continuous learning and a collaborative approach to product development
+
+You can expect:
+
+ - Competitive salary and stock options
+
+ - Flexible working hours
+
+ - Market-leading parental leave
+
+Life at Namespace Labs:
+
+ - We pride ourselves in being a small team of experts that can achieve a lot.
+
+ - We balance our long-term vision with short-term pragmatism.
+
+ - We believe in being fully transparent internally on how decisions are made, on how the company is doing, and we use that information to drive our decisions.

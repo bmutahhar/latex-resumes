@@ -1,0 +1,90 @@
+\documentclass[9pt,letterpaper]{article}
+
+\usepackage[margin=0.58in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% ATS-friendly unicode mapping (pdfTeX only; XeTeX via Tectonic does not use this)
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\pagenumbering{gobble}
+\urlstyle{same}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{5pt}{3pt}
+
+\newcommand{\resumeHeader}[1]{%
+  \begin{center}
+    \vspace{0pt}
+    {\fontsize{18pt}{20pt}\selectfont\bfseries #1\par}
+    \vspace{0pt}
+  \end{center}
+}
+\newcommand{\role}[4]{\textbf{#1} \hfill #2 \\
+\textit{#3} \hfill \textit{#4}\\[-5pt]}
+
+\begin{document}
+
+\resumeHeader{Mutahhar BM - Senior Frontend Engineer}
+\begin{center}
+\fontsize{9pt}{10pt}\selectfont
+\href{mailto:mutahharbinmuzaffar@gmail.com}{mutahharbinmuzaffar@gmail.com} \;|\; +92 301 2498730 \;|\;
+\href{https://www.linkedin.com/in/mutahhar-bin-muzaffar}{linkedin.com/in/mutahhar-bin-muzaffar} \;|\;
+\href{https://github.com/bmutahhar}{github.com/bmutahhar}
+\end{center}
+
+\section*{Summary}
+Senior Frontend Engineer with 5+ years of experience building React and Next.js products with JavaScript and TypeScript, with hands-on ownership of architecture, performance optimization, automated testing quality, and cross-functional delivery.
+
+\section*{Experience}
+\role{Senior Frontend Engineer}{Jul 2023 -- Present}{\href{https://www.imagine.art/}{\textbf{\underline{ImagineArt}}} - Vyro.ai}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Delivered \href{https://www.imagine.art/flow}{\textbf{\underline{Workflows}}} from ideation to MVP launch by defining a unified React Flow architecture for text, image, and video generation.
+  \item Scaled team delivery capacity by onboarding and mentoring 4--5 engineers while setting implementation direction for complex real-time node orchestration.
+  \item Increased release consistency across microfrontend modules by setting Git workflows and maintaining a Vercel CI/CD pipeline for independently deployed frontend surfaces.
+  \item Improved rollout efficiency by 60\% and reduced access-update overhead by 35\% by building subscription gating with Firebase Remote Config and tag-based edge caching.
+  \item Improved cross-environment API reliability by resolving CORS and Authorization header mismatches with backend teams across dev, staging, and production.
+\end{itemize}
+
+\role{Full Stack Developer}{Mar 2022 -- Mar 2025}{\href{https://www.engiselle.com/}{\textbf{\underline{Engiselle}}}}{Singapore}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Increased transaction volume by 20\% by delivering production eCommerce products, including an online pharmacy and a home-repair platform.
+  \item Increased user engagement by 35\% by implementing real-time event-notification workflows with Socket.io across key product flows.
+  \item Improved production stability by deploying backend services on AWS EC2 and managing PostgreSQL on Amazon RDS for application reliability.
+  \item Strengthened controlled resource access by configuring Amazon S3 bucket policies and AWS IAM access controls for shared production assets.
+\end{itemize}
+
+\role{Software Engineer}{Jun 2022 -- Jun 2023}{\href{https://www.devsinc.com/}{\textbf{\underline{DevsInc}}}}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Delivered a healthcare provider dashboard by building React and Material UI scheduling workflows with Twilio video integration for provider-patient coordination.
+  \item Improved frontend release confidence by implementing unit tests with Jest and React Testing Library (RTL) across components and feature workflows.
+  \item Improved API flexibility for product features by implementing and consuming GraphQL queries and mutations across a React frontend and NestJS backend.
+  \item Reduced load time by 40\% and reduced support tickets by 30\% by optimizing dashboard queries and resolving 50+ production issues.
+\end{itemize}
+
+\role{Software Engineer}{Oct 2021 -- Jun 2022}{Pakistan Air Force}{Islamabad, Pakistan}
+\begin{itemize}[leftmargin=*, itemsep=0pt, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{1pt}]
+  \item Reduced deployment time by 50\% while supporting 99.9\% uptime by deploying 20+ Docker images on local Kubernetes for R\&D geospatial systems.
+\end{itemize}
+
+\section*{Education}
+\textbf{Bachelor of Computer Science} \hfill 2021 \\
+COMSATS University, Islamabad \hfill CGPA: 3.73/4.00
+
+\section*{Skills}
+\textbf{Languages:} JavaScript, TypeScript, HTML, CSS/SCSS \\
+\textbf{Frontend:} React, Next.js, Redux, Zustand, Tailwind CSS, Microfrontend Architecture \\
+\textbf{API/Data:} REST APIs, GraphQL, React Query, Data Modeling \\
+\textbf{Quality/Delivery:} Jest, React Testing Library, CI/CD (Vercel), Git, Performance Optimization, SSR
+
+\end{document}

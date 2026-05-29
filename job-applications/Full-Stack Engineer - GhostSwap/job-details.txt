@@ -1,0 +1,38 @@
+Date: 2026-05-29
+Company: GhostSwap
+Company Website: https://ghostswap.us
+Job Title: Full-Stack Engineer
+
+Job Description:
+🚀 We’re Hiring: Full-Stack Engineer (Full-Time or Part-Time) | 100% Remote
+
+GhostSwap is looking for a talented Full-Stack Engineer to help build the future of anonymous cryptocurrency swaps.
+
+This is a high-impact opportunity to work on real-time, financial-grade systems at the intersection of crypto, DeFi, and scalable engineering.
+
+What you’ll work on:
+• Migrating our platform from WordPress to a modern JavaScript/TypeScript stack
+• Building high-performance backend systems for swap execution and risk analysis
+• Developing responsive frontend applications using Next.js
+• Designing API-first services with Node.js
+• Building execution and routing systems for crypto transactions
+• Developing Python-based risk intelligence and prediction engines
+• Integrating blockchain networks, liquidity providers (CEX/DEX), and third-party APIs
+
+What we’re looking for:
+✔ Strong JavaScript & Python skills
+✔ Experience in crypto, DeFi, or trading systems
+✔ Familiarity with execution engines, routing systems, or order books
+✔ Experience with large-scale migrations
+✔ Understanding of blockchain transaction flows
+
+What we offer:
+💰 Full-Time: $12,000/month
+💰 Part-Time: $60/hour (minimum 12 hrs/week)
+🎯 Performance bonus + annual increases
+🏠 Full home office support
+🌍 100% remote
+🌴 28 paid days off annually
+
+If you’re interested, send your resume to:
+📩 zukovski@ghostswap.us

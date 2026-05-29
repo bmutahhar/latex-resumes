@@ -1,0 +1,41 @@
+Date: 2026-05-29
+Company: G42
+Company Website: https://g42.ai/
+Job Title: Senior Frontend Engineer
+
+Job Description:
+About the Job
+As a Senior Frontend Engineer at G42, you will be responsible for designing and developing the user interface of our AI products. Your role is crucial in creating intuitive, responsive, and engaging user experiences that meet the needs of our customers. You will work closely with product designers and backend engineers to deliver high-quality web applications that are both visually appealing and functionally robust.
+
+G42 is the UAE’s national-scale enabler in AI Research and Development, partnering with Microsoft’s AI SaaS to offer domain-specific Agentic AI Orchestrator platforms that utilize reasoning agents for precise and cost-effective services. Our areas of focus include AI incubation, IP creation, applied AI R&D, and AI investment products, ensuring superior accuracy and efficiency through models tailored to specific domains and languages.
+
+Responsibilities
+- System Design: Design and implement scalable and performant frontend applications.
+- Data Modeling: Model data for frontend applications and create maintainable frontend architectures.
+- Frontend Development: Develop and maintain high-quality frontend code using modern frameworks and libraries such as NextJS.
+- Performance Optimization: Optimize frontend applications for speed and efficiency.
+- Code Quality: Ensure adherence to coding standards and best practices through code reviews and automated testing.
+- Problem-Solving: Identify and resolve complex technical challenges.
+- Stay Up-to-Date: Keep abreast of the latest trends and technologies in frontend development.
+
+Qualifications
+- Bachelor’s degree in Computer Science, Engineering, or a related field.
+- Minimum 5 years of experience in frontend development.
+- Strong knowledge in functional/object-oriented programming.
+- Proficiency in JavaScript, HTML, and CSS.
+- Experience with popular frontend frameworks, particularly NextJS.
+- Familiarity with RESTful APIs and GraphQL.
+- Experience with version control systems (e.g., Git).
+- Excellent problem-solving and debugging skills.
+- Ability to work independently and as part of a team.
+- Strong communication and interpersonal skills.
+
+Preferred Qualifications
+- Experience with frontend performance optimization techniques.
+- Familiarity with state management libraries (e.g., Redux, Zustand, Redux Toolkit, React Query).
+- Experience with testing frameworks (e.g., Jest, Cypress).
+- Knowledge of server-side rendering (SSR).
+- Ability to lead frontend engineers and projects.
+
+What We Look For
+We seek a performance-driven, curious individual who adapts well to ambiguity. You should be eager to open meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. A bias for action and a passion for exploring new frontiers in AI is at the core of our community at G42.
