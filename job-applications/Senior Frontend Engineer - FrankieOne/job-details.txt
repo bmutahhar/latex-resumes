@@ -1,0 +1,42 @@
+Date: 2026-05-29
+Company: FrankieOne
+Company Website: https://www.frankieone.com
+Job Title: Senior Frontend Engineer
+
+Job Description:
+Engineering · Indonesia · Fully Remote
+Senior Frontend Engineer
+
+The Role
+We’re looking for a Senior Frontend Engineer with expertise in modern, cloud-based technologies to join our growing global team.
+
+You’ll not only build world-class, scalable web applications - you’ll also help elevate our engineering standards by sharing your knowledge, mentoring others, and influencing technical direction.
+
+You’ll collaborate closely with experienced engineers, product managers, and designers across time zones. This is an opportunity to work on a world-class product, alongside a team that’s passionate about building technology that makes a difference.
+
+What You’ll Do
+- Internal drive to own web application features end-to-end including design collaborations, development, testing with observability, and monitoring to deliver high-quality web applications that meet business and user needs.
+- Collaborate with a global, cross-functional team of engineers, product managers, and designers.
+- Contribute to architectural discussions and participate in technical design and implementation decisions.
+- Write clean, maintainable, and secure code following best practices and AI-first workflows.
+- Drive software quality through automated testing, integration testing, observability, monitoring and continuous improvement.
+- Mentor and guide peers, helping junior and mid-level engineers grow through knowledge sharing and code reviews.
+- Stay ahead of emerging technologies and introduce innovative ideas to improve our products and engineering practices.
+
+What You’ll Bring
+- 5+ years’ experience in software engineering teams within an Agile environment.
+- 3+ years working with React.
+- 3+ years working with TypeScript and Node.js.
+- Strong understanding of HTML5, ES6, CSS3/Sass, and front-end fundamentals.
+- Experience designing and consuming RESTful APIs.
+- Experience using AI-first development workflows to deliver outcomes using Spec Driven Development or Agentic Tools.
+- Solid experience with testing frameworks such as Playwright.
+- Building, maintaining, and improving developer experience with best practices and tooling.
+- Experience building and deploying micro-frontend architectures.
+- Excellent collaboration and communication skills; thrive in a global, remote team environment.
+
+Bonus points if you have:
+- Experience with back-end languages such as Golang, TypeScript, or Python.
+- Exposure to DevSecOps practices and automation tools, including hands-on experience with Docker, CI/CD pipelines (GitHub Actions, Terraform, AWS).
+- Experience building SDKs or complex software stacks.
+- Interest in AI-based applications or no/low-code development.

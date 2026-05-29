@@ -165,6 +165,29 @@ Evidence/Notes:
 - User confirmed all three points were completed at Vyro.
 
 ---
+Project: Vyro (ImagineArt Workflows)
+Item: Edge middleware auth, geo redirects, and tag-based edge caching/invalidation on Vercel.
+Recommended Resume Wording:
+- Implemented edge authentication checks with Vercel Edge Middleware to protect private routes before render.
+- Built geo-based redirects through Next.js middleware on Vercel to route users by location.
+- Added tag-based edge caching for Firebase Remote Config to reduce repeated high-traffic fetches.
+- Built a dedicated API route for tag-based cache invalidation, enabling controlled Remote Config cache refreshes.
+
+Tech Mapping:
+- Edge Platform Equivalent: Vercel Edge Middleware / Edge Functions
+- Framework: Next.js middleware
+- Config/Data: Firebase Remote Config
+- Caching: Tag-based edge caching and targeted invalidation
+
+Usage Rules:
+- Prioritize this block whenever a job description mentions Cloudflare Workers (or similar edge platform), edge rendering, edge delivery, middleware-based request handling, geo-routing, or cache invalidation strategies.
+- Use this block as the primary equivalent-experience substitute when the posting asks for Cloudflare Workers specifically and no direct Cloudflare production usage is claimed.
+
+Evidence/Notes:
+- User confirmed this work was completed in production at Vyro (ImagineArt Workflows).
+- Keep wording as Vercel edge equivalent unless user confirms direct Cloudflare Workers experience.
+
+---
 Project: Engiselle (LMS - Next.js + NestJS)
 Item: Role and permission-based access control in full-stack delivery.
 Recommended Resume Wording:

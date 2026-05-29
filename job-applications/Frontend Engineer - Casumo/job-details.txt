@@ -1,0 +1,57 @@
+Date: 2026-05-29
+Company: Casumo
+Company Website: https://www.casumo.com
+Job Title: Frontend Engineer
+
+Job Description:
+Casumo is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Join us at Casumo, where you are invited to be your authentic YOU-MO!
+
+Company Overview:
+Welcome to Casumo, your passport to a world of fun, excitement, and responsible gaming. We're an international online casino company with a knack for creating unforgettable gaming experiences. Our secret sauce? A blend of innovation, security, and a dash of playful charm.
+Nowadays, we're on the hunt for a dynamic Frontend Engineer to join our team!
+
+Position Overview:
+At Casumo we work across our lovingly crafted and award-winning web app and a suite of bespoke tools to support us in building the best player experience through our joint passion and creativity.
+
+Responsibilities:
+As an Engineer
+- Design and deliver scalable, maintainable frontend features using React and SvelteKit.
+- Build fast, responsive, and accessible user interfaces using Tailwind CSS and modern component patterns.
+- Develop applications powered by Vite, optimizing build performance and developer experience.
+- Integrate frontend applications with backend services and APIs, including edge-powered workflows using Cloudflare Workers.
+- Own features end-to-end, from technical design and implementation to deployment and monitoring.
+- Write clean, well-tested TypeScript/JavaScript code with strong attention to readability and maintainability.
+- Participate actively in code reviews, providing thoughtful feedback and elevating code quality across the team.
+- Investigate and resolve complex production issues across frontend and edge environments.
+
+As a Technical Contributor
+- Take ownership of significant technical initiatives or product areas.
+- Help refine frontend patterns across multiple frameworks (React and SvelteKit).
+- Improve and maintain shared UI components and styling conventions using Tailwind.
+- Optimize performance across build time, runtime, and edge delivery.
+- Contribute to CI/CD workflows using GitHub and modern deployment pipelines.
+- Collaborate with backend engineers to shape efficient APIs and edge-compatible architectures.
+- Improve developer experience by enhancing local tooling, Vite configs, linting, testing setup, and documentation.
+
+Requirements:
+You are a strong hands-on engineer who thrives in modern frontend ecosystems and cares deeply about performance, developer experience, and clean architecture.
+- Proven experience building production-grade applications with React and/or SvelteKit.
+- Strong proficiency in modern JavaScript and TypeScript.
+- Experience using Vite or similar modern build tools.
+- Solid experience with Tailwind CSS or utility-first CSS approaches.
+- An understanding of client-side rendering, SSR, and edge rendering patterns.
+- Experience deploying or integrating applications with edge platforms (e.g., Cloudflare Workers or similar).
+- Experience with Git-based workflows (GitHub), pull requests, and CI/CD pipelines.
+- Good knowledge of web performance optimization (Core Web Vitals, bundle size, caching strategies).
+- Experience writing automated tests (unit, integration, or e2e).
+- Strong communication skills in English and experience working in cross-functional teams.
+
+Please note: As Casumo is an international company and English is our working language, we kindly ask you to submit your CV in English.
+
+Role: Frontend Engineer
+Department: Tech
+Remote status: Hybrid
+Employment type: Full-time
+Locations: Swieqi, Malta; Remote; Skopje, North Macedonia; Zagreb, Croatia
